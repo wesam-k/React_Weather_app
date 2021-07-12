@@ -1,5 +1,5 @@
 # Weather_app
-The Weather app gives you the present temperature and you can see the temperature for up five days coming, by API weather, also you can search for multiple cities and move between them on the home page and delete, created by React, JS, CSS, and Bootstrap
+The Weather app gives you the present temperature and you can see the temperature for up five days coming, by API weather you can search for multiple cities and move between them on the home page and delete, created by React, JS, CSS, and Bootstrap
 
 ⚡ [Demo](https://weatherappsam.netlify.app/)
 
